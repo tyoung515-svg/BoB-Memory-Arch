@@ -1,0 +1,28 @@
+BoB memory architecture — multi-user RAG reference design
+A Canopy Seed project.
+
+Copyright 2026 Canopy Seed
+
+The text and diagram in this repository are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0). See LICENSE, or
+https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt this material for any purpose, including commercially,
+provided you give appropriate credit, link to the license, and indicate if
+changes were made.
+
+Suggested attribution:
+  Travis Young, "Bob's memory system: a reference design for multi-user RAG",
+  Canopy Seed, 2026. Licensed CC BY 4.0.
+
+------------------------------------------------------------------------------
+Scope
+------------------------------------------------------------------------------
+
+This repository contains a written architecture write-up and its diagram, derived
+from a private BoB deployment. It describes a design. It does not contain the BoB
+source code, credentials, tenant data, or any client material.
+
+Claude Code (CLAUDE.md / auto memory) and OpenAI Codex (AGENTS.md) are named for
+comparison only. They are third-party products, not included here, and each
+remains under its own vendor terms and license.
