@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/34210538/README.md)
-# Bob's memory system — a reference design for multi-user RAG
+[README.md](https://github.com/user-attachments/files/34210655/README.2.md)
+# Bob's memory system: a reference design for multi-user RAG
 
 A write-up of how BoBClaw's memory actually works on this box (verified from the live code
 and live Qdrant), written for someone building RAG where several people must not see each
@@ -218,3 +218,8 @@ activity level.
    in A without including it in the prompt.
 10. Log recall metrics (candidates scanned, dangling skipped, results returned) — counts only,
     never content. Dangling-vector rate is your earliest signal of index drift.
+
+## License
+
+Text and diagram: [CC BY 4.0](LICENSE) © 2026 Canopy Seed. Share and adapt it freely,
+including commercially, with credit. A [Canopy Seed](https://canopyseeds.com) project.
